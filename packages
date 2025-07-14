@@ -1,0 +1,9 @@
+/*  Packages added int this project ;
+    added tailwind for styling's
+    added react router dom for routing the pages
+    added react-parallex-tilt to tilt the content cards 
+    added react-icons for icons
+    added react-typing-effect adding effect to the text 
+    added react-toastify to add notifications
+    added prop-types 
+*/
